@@ -1,0 +1,10 @@
+* {
+	font-family: Adwaita Mono;
+}
+
+window {
+  margin: 10px;
+  background-color: rgba(30, 30, 30, 0.5); /* dark and slightly transparent */
+  border-radius: 0px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}

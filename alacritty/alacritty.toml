@@ -1,0 +1,21 @@
+[font]
+size = 11
+
+[font.bold]
+family = "Adwaita "
+style = "Bold"
+
+[font.bold_italic]
+family = "Adwaita "
+style = "Bold Italic"
+
+[font.italic]
+family = "Adwaita "
+style = "Italic"
+
+[font.normal]
+family = "Adwaita Mono"
+style = "Regular"
+
+[window]
+opacity = 0.45
