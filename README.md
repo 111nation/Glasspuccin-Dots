@@ -16,6 +16,7 @@ Ensure you have the prerequisites installed
 * Kvantum Theme Manager (Set theme to Utterly Nord in theme folder)
 * Hyprland
 * Waybar
+* Wofi
 
 > [!Note]
 > The clock displayed on the screenshots is written by me, check it out on
