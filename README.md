@@ -13,7 +13,7 @@ _A cross breed of catppuccin and and glass, made beautiful_
 Place all these files in your `.config` directory and refresh hyprland
 Ensure you have the prerequisites installed
 * Alacritty
-* Kvantum Theme Manager
+* Kvantum Theme Manager (Set theme to Utterly Nord in theme folder)
 * Hyprland
 * Waybar
 
