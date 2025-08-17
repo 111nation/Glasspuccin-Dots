@@ -24,7 +24,7 @@ Ensure you have the prerequisites installed
 
 ### Notice
 ---
-The wallpaper was sourced from this amazing repository: [Wallpapers] (https://github.com/orangci/walls-catppuccin-mocha)
+The wallpaper was sourced from this amazing repository: [Wallpapers](https://github.com/orangci/walls-catppuccin-mocha)
 
 ###### Please contribute and leave a star! Let's me know to do more of these rices!
 
